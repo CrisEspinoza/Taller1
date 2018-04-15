@@ -1,10 +1,12 @@
 # Taller1
-GRUPO 7 - Integrantes: Veronica Calas \n
-	               Jesus Mura
-	               Sebastian Pinto
-	               Cristobal Donoso
-	               Maximiliano Espinosa
-	               Cristian Espinoza	
+
+GRUPO 7 - Integrantes: 
+- Veronica Calas
+- Cristobal Donoso
+- Maximiliano Espinosa
+- Cristian Espinoza
+- Jesus Mura
+- Sebastian Pinto	
 
 Tenemos que este taller contiene dos carpetas por un lado tenemos que contiene Taller1-TBD y por el
 otro lado tenemos a Taller1-TBD-Front
