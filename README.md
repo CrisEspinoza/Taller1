@@ -1,5 +1,5 @@
 # Taller1
-GRUPO 7 - Integrantes: Veronica Calas
+GRUPO 7 - Integrantes: Veronica Calas \n
 	               Jesus Mura
 	               Sebastian Pinto
 	               Cristobal Donoso
