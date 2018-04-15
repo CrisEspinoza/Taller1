@@ -8,7 +8,7 @@ GRUPO 7 - INTEGRANTES:
 - Jesus Mura
 - Sebastian Pinto	
 
-* Tenemos que este taller contiene dos carpetas por un lado tenemos que contiene Taller1-TBD y por el
+Tenemos que este taller contiene dos carpetas por un lado tenemos que contiene Taller1-TBD y por el
 otro lado tenemos a Taller1-TBD-Front
 
 - En primer lugar la carpeta Taller1-TBD:
